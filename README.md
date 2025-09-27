@@ -1,16 +1,24 @@
-## Hi there 👋
+# Computing greetings...
+# ...
+# ...
+# Welcome!
+---
+Studying BsC in Computer Engineering
 
-<!--
-**smee-ux/smee-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Skills
+--- 
+[x] little bit of C
+[x] little bit of C++
+[x] little bit of the github flow
 
-Here are some ideas to get you started:
+# Projects
+---
+None
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Currently Learning
+---
+[] C-progamming
+[] bash programming
+[] Digital Logic
+[] GitHub workflow
+
