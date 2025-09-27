@@ -1,24 +1,34 @@
-# Computing greetings...
-# ...
-# ...
-# Welcome!
+### Welcome! 🦹‍♂️
 ---
-Studying BsC in Computer Engineering
+Studying BsC in Computer Engineering 
 
-# Skills
+
+### Skills
 --- 
 [x] little bit of C
+
+
 [x] little bit of C++
+
+
 [x] little bit of the github flow
 
-# Projects
+### Projects
 ---
 None
 
-# Currently Learning
+
+
+### Currently Learning
 ---
 [] C-progamming
+
+
 [] bash programming
+
+
 [] Digital Logic
+
+
 [] GitHub workflow
 
