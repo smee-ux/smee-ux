@@ -15,7 +15,7 @@ Studying BsC in Computer Engineering
 
 ### Projects
 ---
-None
+None (yet)
 
 
 
