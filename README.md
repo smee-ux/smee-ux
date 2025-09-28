@@ -30,5 +30,5 @@ None (yet)
 [] Digital Logic
 
 
-[] GitHub workflow
+[] git
 
