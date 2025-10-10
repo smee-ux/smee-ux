@@ -7,11 +7,9 @@ Studying BsC in Computer Engineering
 --- 
 [x] little bit of C
 
-
 [x] little bit of C++
 
-
-[x] little bit of the github flow
+[x] basic git functionality
 
 ### Projects
 ---
@@ -22,13 +20,6 @@ None (yet)
 ### Currently Learning
 ---
 [] C-progamming
-
-
 [] bash programming
-
-
-[] Digital Logic
-
-
-[] git
+[] digital Logic
 
