@@ -13,13 +13,17 @@ Studying BsC in Computer Engineering
 
 ### Projects
 ---
-None (yet)
+[] Arduino gamifying tracker
 
 
 
 ### Currently Learning
 ---
 [] C-progamming
+
 [] bash programming
+
 [] digital Logic
+
+
 
