@@ -13,7 +13,7 @@ Studying BsC in Computer Engineering
 
 ### Projects
 ---
-[] Arduino gamifying tracker
+[] Arduino cat tracker
 
 
 
